@@ -1,0 +1,10 @@
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\obj\Debug\mysql.csprojResolveAssemblyReference.cache
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\obj\Debug\mysql.csproj.CoreCompileInputs.cache
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\bin\Debug\mysql.exe.config
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\bin\Debug\mysql.exe
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\bin\Debug\mysql.pdb
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\bin\Debug\MySql.Data.dll
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\bin\Debug\MySql.Data.xml
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\obj\Debug\mysql.csproj.CopyComplete
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\obj\Debug\mysql.exe
+D:\GeekBrains\tmp\MySQL_ConsoleApp\mysql\mysql\obj\Debug\mysql.pdb
